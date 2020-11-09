@@ -26,6 +26,9 @@
     "types": [
       "@types/node",
       "@nuxt/types"
+    ],
+    "plugins": [
+      {"name": "@vuedx/typescript-plugin-vue"}
     ]
   },
   "exclude": [
